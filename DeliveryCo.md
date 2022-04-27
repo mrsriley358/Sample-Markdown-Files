@@ -5,7 +5,7 @@ Delivery
 
 **SkillsUSA National Qualifier - 5th place**
 
-![Delivery Co. Poster](/Assests/DelvieryCoPoster.png)
+![Delivery Co. Poster](DelvieryCoPoster.png)
 
 Developers: Andrew Robinson ([@SirArkimedes](https://github.com/SirArkimedes)), Grant Jennings ([@gajbooks] (https://github.com/gajbooks)), Michael Blades ([@Cast324](https://github.com/Cast324))
 
