@@ -8,3 +8,5 @@
 - Delivery Co - Example markdown for contest use
 - Car Example 1 - Student example that meets some requirements
 - Car Example 2 - Student example that is more appealing to potential employers than example 1
+
+[Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
